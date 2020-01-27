@@ -14,12 +14,12 @@ Export
 
 1’st line - Uniform Distribution:
 
-  (*) Recommendation of how many products to purchase.
+  Recommendation of how many products to purchase.
 
 2’nd line - Normal Distribution:
 
-  (*) Recommendation of how many gifts in case of lack to order for the finals.
+  Recommendation of how many gifts in case of lack to order for the finals.
 
 3’rd line - Uniform Distribution:
 
-  (*) Recommendation of how many gifts in case of lack to order.
+  Recommendation of how many gifts in case of lack to order.
