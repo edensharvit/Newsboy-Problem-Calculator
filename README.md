@@ -12,11 +12,11 @@ Import
 
 Export
 
-1’st line - Uniform Distribution:
+1’st line: Uniform Distribution - 
 Recommendation of how many products to purchase.
 
-2’nd line - Normal Distribution:
+2’nd line: Normal Distribution - 
 Recommendation of how many gifts in case of lack to order for the finals.
 
-3’rd line - Uniform Distribution:
+3’rd line: Uniform Distribution - 
 Recommendation of how many gifts in case of lack to order.
