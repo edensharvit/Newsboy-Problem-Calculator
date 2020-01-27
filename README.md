@@ -1,7 +1,6 @@
 Newsboy Problem - A model of single-period inventory management with stochastic demand.
 
 Import
-———
 
 1. Based on the given “Area” detaiIs, enter the “Cost” detailes for the three columns beneath.
 2. Enter the uniform distribution range.
@@ -12,16 +11,15 @@ Import
 7.  Select distribution type ( Uniform/ normal).
 
 Export
-———
 
-1’st line : Uniform Distribution
-——————————————
-Recommendation of how many products to purchase.
+1’st line - Uniform Distribution:
 
-2’nd line : Normal Distribution
-——————————————
-Recommendation of how many gifts in case of lack to order for the finals.
+  (*) Recommendation of how many products to purchase.
 
-3’rd line : Uniform Distribution
-——————————————
-Recommendation of how many gifts in case of lack to order.
+2’nd line - Normal Distribution:
+
+  (*) Recommendation of how many gifts in case of lack to order for the finals.
+
+3’rd line - Uniform Distribution:
+
+  (*) Recommendation of how many gifts in case of lack to order.
